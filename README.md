@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ou
 
 ```bash
-pip install streamlit langchain-google-genai langchain-chroma langchain-community langchain-classic python-dotenv beautifulsoup4
+pip install streamlit langchain-google-genai langchain-chroma langchain-community langchain-classic python-dotenv beautifulsoup4 google-generativeai
 ```
 
 
