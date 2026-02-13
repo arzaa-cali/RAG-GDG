@@ -1,1 +1,1 @@
-# chatbotGDG
+# RAG-GDG
