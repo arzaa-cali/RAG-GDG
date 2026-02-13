@@ -1,4 +1,4 @@
-# Tutoriel RAG GDG
+# RAG-GDG
 
 ## 1. Setup
 
