@@ -1,5 +1,8 @@
 # RAG-GDG
 
+Chatbot basé sur l’architecture RAG (Retrieval-Augmented Generation) développé avec LangChain, Google Gemini, ChromaDB et Streamlit. Ce projet illustre comment construire un assistant intelligent capable de rechercher des informations pertinentes dans une base documentaire avant de générer une réponse.
+
+
 ## 1. Setup
 
 ### 1.1 MacOS
